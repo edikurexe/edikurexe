@@ -10,8 +10,8 @@ Welcome to my digital universe. I am a passionate coder and tech enthusiast, con
 
 ## 🌐 Connect With Me
 - **Email:** [edikur.exe@gmail.com](mailto:edikur.exe@gmail.com)
-- **Instagram:** [Your Instagram Profile](https://www.instagram.com/mas.edikur)
-- **Twitter:** [@yourhandle](https://twitter.com/edikur.exe)
+- **Instagram:** [Instagram Profile](https://www.instagram.com/mas.edikur)
+- **Twitter:** [@edikurexe](https://twitter.com/edikur.exe)
 
 ## 🚀 Exploring New Horizons
 - **Current Focus:** Advanced `React` and `TypeScript`, Cloud Computing with `AWS`, Machine Learning with `Python`
